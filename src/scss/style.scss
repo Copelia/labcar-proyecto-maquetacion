@@ -43,3 +43,21 @@ h4{
 .btn-warning {
     color: white !important;
 }
+
+.ruta{
+    background-color: $background-color;
+    
+    // margin-top: 3em;
+}
+
+.form{
+    margin-top: 3em;
+    margin-left: .5em;
+    font-family: $font-family;
+    color: $font-color;
+
+}
+
+.map{
+  padding: 4em 3em 2em 3em;
+}

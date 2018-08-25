@@ -30,3 +30,15 @@ h4 {
 
 .btn-warning {
   color: white !important; }
+
+.ruta {
+  background-color: #F7B617; }
+
+.form {
+  margin-top: 3em;
+  margin-left: .5em;
+  font-family: "Source Sans Pro", sans-serif;
+  color: rgba(255, 255, 255, 0.979); }
+
+.map {
+  padding: 4em 3em 2em 3em; }
