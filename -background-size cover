@@ -1,0 +1,29 @@
+[33mcommit b64ddcb4be9b267f90484eb5e3099ce007b7fddf[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: [Copelia] <iamcorallium@gmail.com>
+Date:   Mon Aug 20 23:23:34 2018 -0500
+
+    Añadiendo primeros estilos. Imagen se resiste a ser estilizada desde css
+
+[33mcommit 75b704e21bb70c7c37010a92f098a322e5c851e9[m
+Author: [Copelia] <iamcorallium@gmail.com>
+Date:   Mon Aug 20 18:55:31 2018 -0500
+
+    Probando navbar con bootstrap y sass
+
+[33mcommit e5bf90ff5d313eed4bd5c59dad824c09627a913f[m
+Author: [Copelia] <iamcorallium@gmail.com>
+Date:   Mon Aug 20 18:36:36 2018 -0500
+
+    Añadiendo estructura para sass
+
+[33mcommit 12fc61d328f9a66066a4de43cc4fa56678b11ea4[m
+Author: [Copelia] <iamcorallium@gmail.com>
+Date:   Mon Aug 20 14:54:41 2018 -0500
+
+    Subiendo imágenes
+
+[33mcommit a42a2bf8a7d2e512370e657f5b72cba2ea4ffdf9[m
+Author: [Copelia] <iamcorallium@gmail.com>
+Date:   Mon Aug 20 14:31:47 2018 -0500
+
+    Añadiendo estructura básica
