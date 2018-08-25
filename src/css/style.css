@@ -20,8 +20,13 @@ h4 {
   position: relative;
   z-index: 1; }
 
-.suscribe p {
+.suscribe {
   color: rgba(255, 255, 255, 0.979) !important;
+  font-family: "Source Sans Pro", sans-serif;
   font-weight: 500;
-  margin-top: .5em;
-  font-family: "Source Sans Pro", sans-serif; }
+  margin-top: 6em;
+  margin-bottom: 8em;
+  margin-left: 2em; }
+
+.btn-warning {
+  color: white !important; }

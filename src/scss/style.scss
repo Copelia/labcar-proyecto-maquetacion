@@ -7,16 +7,6 @@ nav{
     background-color: white;
 }
 
-// .taxi {
-//     position: absolute;
-//     z-index: 1;
-// }
-
-// .yellow-box ::before{
-//     content: url(assets/taxi.jpg);
-    
-// }
-
 .iphone{
     background-color: $background-color;
 
@@ -41,10 +31,15 @@ h4{
     z-index: 1;
 }
 
-.suscribe p{
+.suscribe{
     color: $font-color !important;
-    font-weight: 500;
-    // width: auto 0;
-    margin-top: .5em;
     font-family: $font-family;
+    font-weight: 500;
+    margin-top: 6em;
+    margin-bottom: 8em;
+    margin-left: 2em;
+}
+
+.btn-warning {
+    color: white !important;
 }
