@@ -23,7 +23,7 @@
   "homepage": "https://github.com/Copelia/labcar-proyecto-maquetacion#readme",
   "dependencies": {
     "bootstrap": "^4.1.3",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "tether": "^1.4.4"
   },
   "devDependencies": {
